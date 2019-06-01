@@ -1,0 +1,3440 @@
+{
+   "status": 1,
+   "info": "成绩返回结果",
+   "data": {
+      "exam_id": 0,
+      "group_id": "27",
+      "student_id": "72299",
+      "answer": [
+         {
+            "topicId": "2165",
+            "topicTypeId": "59",
+            "paperTopicScore": "1.0",
+            "standardAudio": "",
+            "standardAnswer": "",
+            "myAnswer": "",
+            "isAudio": true,
+            "audioAnswerList": [
+               {
+                  "coreType": "en.sent.child",
+                  "score": 85,
+                  "audioUrl": "download.cloud.chivox.com: 8002\\/5c2b3584f8d2dc5945083afa",
+                  "standardAudio": "",
+                  "recordId": "5c2b3584f8d2dc5945083afa",
+                  "attributes": {
+                     "useref": 1,
+                     "version": "0.0.80.2018.1.18.15: 21: 41",
+                     "rank": 100,
+                     "res": "eng.snt.G4.A2.0.5",
+                     "integrity": 88,
+                     "forceout": 0,
+                     "pron": 84,
+                     "info": {
+                        "snr": 39.900002,
+                        "trunc": 0,
+                        "clip": 0,
+                        "volume": 2328,
+                        "tipId": 0
+                     },
+                     "textmode": 0,
+                     "wavetime": 14980,
+                     "en_prob": 1,
+                     "pretime": 95,
+                     "delaytime": 149,
+                     "usehookw": 0,
+                     "overall": 85,
+                     "is_en": 1,
+                     "rhythm": {
+                        "stress": 75,
+                        "overall": 69,
+                        "sense": 50,
+                        "tone": 100
+                     },
+                     "accuracy": 81,
+                     "details": [
+                        {
+                           "fluency": 0,
+                           "dur": 860,
+                           "endindex": 8,
+                           "beginindex": 0,
+                           "end": 1420,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 1,
+                           "char": "sometimes",
+                           "start": 560,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 100
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 180,
+                           "endindex": 12,
+                           "beginindex": 10,
+                           "end": 1600,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "you",
+                           "start": 1420,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 70
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 120,
+                           "endindex": 17,
+                           "beginindex": 14,
+                           "end": 1720,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "have",
+                           "start": 1600,
+                           "sensescore": 1,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 0
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 200,
+                           "endindex": 20,
+                           "beginindex": 19,
+                           "end": 1960,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "no",
+                           "start": 1760,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 47
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 560,
+                           "endindex": 27,
+                           "beginindex": 22,
+                           "end": 2520,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 1,
+                           "char": "chance",
+                           "start": 1960,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 97
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 140,
+                           "endindex": 30,
+                           "beginindex": 29,
+                           "end": 2660,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "to",
+                           "start": 2520,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 100
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 260,
+                           "endindex": 35,
+                           "beginindex": 32,
+                           "end": 2920,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "make",
+                           "start": 2660,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 100
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 420,
+                           "endindex": 40,
+                           "beginindex": 37,
+                           "end": 3340,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "most",
+                           "start": 2920,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 74
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 240,
+                           "endindex": 43,
+                           "beginindex": 42,
+                           "end": 3580,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "of",
+                           "start": 3340,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 95
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 240,
+                           "endindex": 48,
+                           "beginindex": 45,
+                           "end": 3820,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "your",
+                           "start": 3580,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 73
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 1040,
+                           "endindex": 60,
+                           "beginindex": 50,
+                           "end": 4860,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 1,
+                           "char": "experiences",
+                           "start": 3820,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 76
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 540,
+                           "endindex": 66,
+                           "beginindex": 62,
+                           "end": 5400,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 1,
+                           "char": "until",
+                           "start": 4860,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 100
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 740,
+                           "endindex": 77,
+                           "beginindex": 68,
+                           "end": 6140,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "relatively",
+                           "start": 5400,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 90
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 460,
+                           "endindex": 82,
+                           "beginindex": 79,
+                           "end": 6600,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "late",
+                           "start": 6140,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 90
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 180,
+                           "endindex": 85,
+                           "beginindex": 84,
+                           "end": 6780,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "in",
+                           "start": 6600,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 86
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 640,
+                           "endindex": 90,
+                           "beginindex": 87,
+                           "end": 7420,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "life",
+                           "start": 6780,
+                           "sensescore": 0,
+                           "senseref": 1,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 100
+                        }
+                     ],
+                     "fluency": {
+                        "pause": 1,
+                        "overall": 93,
+                        "speed": 157
+                     },
+                     "systime": 4403
+                  }
+               },
+               {
+                  "coreType": "en.sent.child",
+                  "score": 80,
+                  "audioUrl": "download.cloud.chivox.com: 8002\\/5c2b35b5f8d2dc5945083b6d",
+                  "standardAudio": "",
+                  "recordId": "5c2b35b5f8d2dc5945083b6d",
+                  "attributes": {
+                     "useref": 1,
+                     "version": "0.0.80.2018.1.18.15: 21: 41",
+                     "rank": 100,
+                     "res": "eng.snt.G4.A2.0.5",
+                     "integrity": 89,
+                     "forceout": 0,
+                     "pron": 77,
+                     "info": {
+                        "snr": 39.900002,
+                        "trunc": 0,
+                        "clip": 0,
+                        "volume": 2692,
+                        "tipId": 0
+                     },
+                     "textmode": 0,
+                     "wavetime": 14980,
+                     "en_prob": 1,
+                     "pretime": 93,
+                     "delaytime": 107,
+                     "usehookw": 0,
+                     "overall": 80,
+                     "is_en": 1,
+                     "rhythm": {
+                        "stress": 72,
+                        "overall": 68,
+                        "sense": 50,
+                        "tone": 100
+                     },
+                     "accuracy": 83,
+                     "details": [
+                        {
+                           "fluency": 0,
+                           "dur": 500,
+                           "endindex": 3,
+                           "beginindex": 0,
+                           "end": 1080,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "home",
+                           "start": 580,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 86
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 900,
+                           "endindex": 14,
+                           "beginindex": 5,
+                           "end": 1980,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 1,
+                           "char": "economists",
+                           "start": 1080,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 67
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 180,
+                           "endindex": 18,
+                           "beginindex": 16,
+                           "end": 2160,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "are",
+                           "start": 1980,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 100
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 360,
+                           "endindex": 24,
+                           "beginindex": 20,
+                           "end": 2520,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "often",
+                           "start": 2160,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 100
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 760,
+                           "endindex": 33,
+                           "beginindex": 26,
+                           "end": 3280,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 1,
+                           "char": "required",
+                           "start": 2520,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 88
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 160,
+                           "endindex": 36,
+                           "beginindex": 35,
+                           "end": 3440,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "to",
+                           "start": 3280,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 100
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 320,
+                           "endindex": 41,
+                           "beginindex": 38,
+                           "end": 3760,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "have",
+                           "start": 3440,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 97
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 560,
+                           "endindex": 50,
+                           "beginindex": 43,
+                           "end": 4320,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "academic",
+                           "start": 3760,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 23
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 920,
+                           "endindex": 62,
+                           "beginindex": 52,
+                           "end": 5240,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "preparation",
+                           "start": 4320,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 63
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 200,
+                           "endindex": 65,
+                           "beginindex": 64,
+                           "end": 5440,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "in",
+                           "start": 5240,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 100
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 280,
+                           "endindex": 70,
+                           "beginindex": 67,
+                           "end": 5720,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "such",
+                           "start": 5440,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 88
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 400,
+                           "endindex": 78,
+                           "beginindex": 72,
+                           "end": 6120,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "related",
+                           "start": 5720,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 32
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 880,
+                           "endindex": 84,
+                           "beginindex": 80,
+                           "end": 7000,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 1,
+                           "char": "areas",
+                           "start": 6120,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 87
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 260,
+                           "endindex": 87,
+                           "beginindex": 86,
+                           "end": 7260,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "as",
+                           "start": 7000,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 100
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 740,
+                           "endindex": 98,
+                           "beginindex": 90,
+                           "end": 8000,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 1,
+                           "char": "chemistry",
+                           "start": 7260,
+                           "sensescore": 1,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 87
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 860,
+                           "endindex": 110,
+                           "beginindex": 101,
+                           "end": 8900,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 1,
+                           "char": "psychology",
+                           "start": 8040,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 88
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 160,
+                           "endindex": 114,
+                           "beginindex": 112,
+                           "end": 9060,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "and",
+                           "start": 8900,
+                           "sensescore": 0,
+                           "senseref": 0,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 100
+                        },
+                        {
+                           "fluency": 0,
+                           "dur": 760,
+                           "endindex": 121,
+                           "beginindex": 116,
+                           "end": 9820,
+                           "stressref": 0,
+                           "toneref": 0,
+                           "stressscore": 0,
+                           "char": "design",
+                           "start": 9060,
+                           "sensescore": 1,
+                           "senseref": 1,
+                           "tonescore": 0,
+                           "indict": 1,
+                           "score": 91
+                        }
+                     ],
+                     "fluency": {
+                        "pause": 1,
+                        "overall": 97,
+                        "speed": 90
+                     },
+                     "systime": 4850
+                  }
+               }
+            ],
+            "score": 0.83
+         },
+         {
+            "topicId": "2170",
+            "topicTypeId": "60",
+            "paperTopicScore": "1.0",
+            "standardAudio": "",
+            "standardAnswer": "",
+            "myAnswer": "",
+            "isAudio": true,
+            "audioAnswerList": [
+               {
+                  "coreType": "en.pred.exam",
+                  "score": 88,
+                  "audioUrl": "download.cloud.chivox.com: 8002\\/5c2b361ca7a428e3b50c0b46",
+                  "standardAudio": "",
+                  "recordId": "5c2b361ca7a428e3b50c0b46",
+                  "attributes": {
+                     "fluency": 97,
+                     "pron": 92.5,
+                     "rhythm": 92.5,
+                     "wavetime": 30000,
+                     "delaytime": 118,
+                     "rank": 100,
+                     "res": "eng.pred.aux.V5.15",
+                     "version": "1.1.2-2017.11.27.08: 48: 10",
+                     "systime": 14628,
+                     "overall": 88,
+                     "pretime": 147,
+                     "precision": 0.5,
+                     "integrity": 89,
+                     "details": [
+                        {
+                           "words": [
+                              {
+                                 "beginindex": 0,
+                                 "phns": [
+                                    {
+                                       "char": "dh",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ow",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "z",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 4,
+                                 "start": 780,
+                                 "score": 100,
+                                 "end": 1059.999986,
+                                 "text": "those"
+                              },
+                              {
+                                 "beginindex": 6,
+                                 "phns": [
+                                    {
+                                       "char": "hh",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "uh",
+                                       "score": 97
+                                    }
+                                 ],
+                                 "endindex": 8,
+                                 "start": 1060,
+                                 "score": 98.5,
+                                 "end": 1219.999993,
+                                 "text": "who"
+                              },
+                              {
+                                 "beginindex": 10,
+                                 "phns": [
+                                    {
+                                       "char": "s",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "b",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "eh",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 84
+                                    },
+                                    {
+                                       "char": "d",
+                                       "score": 61.5
+                                    }
+                                 ],
+                                 "endindex": 14,
+                                 "start": 1220,
+                                 "score": 97,
+                                 "end": 1579.999992,
+                                 "text": "spend"
+                              },
+                              {
+                                 "beginindex": 16,
+                                 "phns": [
+                                    {
+                                       "char": "ao",
+                                       "score": 82.5
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 18,
+                                 "start": 1580,
+                                 "score": 96,
+                                 "end": 1739.999996,
+                                 "text": "all"
+                              },
+                              {
+                                 "beginindex": 20,
+                                 "phns": [
+                                    {
+                                       "char": "v",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 21,
+                                 "start": 1740,
+                                 "score": 100,
+                                 "end": 1799.999999,
+                                 "text": "of"
+                              },
+                              {
+                                 "beginindex": 23,
+                                 "phns": [
+                                    {
+                                       "char": "dh",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ea",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 27,
+                                 "start": 1800,
+                                 "score": 100,
+                                 "end": 1979.999996,
+                                 "text": "their"
+                              },
+                              {
+                                 "beginindex": 29,
+                                 "phns": [
+                                    {
+                                       "char": "t",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ay",
+                                       "score": 99
+                                    },
+                                    {
+                                       "char": "m",
+                                       "score": 0.5
+                                    }
+                                 ],
+                                 "endindex": 32,
+                                 "start": 1980,
+                                 "score": 88.5,
+                                 "end": 2479.999985,
+                                 "text": "time"
+                              },
+                              {
+                                 "beginindex": 34,
+                                 "phns": [
+                                    {
+                                       "char": "ax",
+                                       "score": 0.5
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ow",
+                                       "score": 87.5
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 86.5
+                                    }
+                                 ],
+                                 "endindex": 38,
+                                 "start": 2480,
+                                 "score": 79.5,
+                                 "end": 2799.999993,
+                                 "text": "alone"
+                              },
+                              {
+                                 "beginindex": 40,
+                                 "phns": [
+                                    {
+                                       "char": "m",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ey",
+                                       "score": 75.5
+                                    }
+                                 ],
+                                 "endindex": 42,
+                                 "start": 2800,
+                                 "score": 94,
+                                 "end": 2919.999997,
+                                 "text": "may"
+                              },
+                              {
+                                 "beginindex": 44,
+                                 "phns": [
+                                    {
+                                       "char": "g",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "eh",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "t",
+                                       "score": 41.5
+                                    }
+                                 ],
+                                 "endindex": 46,
+                                 "start": 2920,
+                                 "score": 94.5,
+                                 "end": 3119.999996,
+                                 "text": "get"
+                              },
+                              {
+                                 "beginindex": 48,
+                                 "phns": [
+                                    {
+                                       "char": "l",
+                                       "score": 98
+                                    },
+                                    {
+                                       "char": "ey",
+                                       "score": 98.5
+                                    },
+                                    {
+                                       "char": "b",
+                                       "score": 94
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 99
+                                    },
+                                    {
+                                       "char": "d",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 54,
+                                 "start": 3120,
+                                 "score": 98,
+                                 "end": 3579.999982,
+                                 "text": "labeled"
+                              },
+                              {
+                                 "beginindex": 56,
+                                 "phns": [
+                                    {
+                                       "char": "ae",
+                                       "score": 95.5
+                                    },
+                                    {
+                                       "char": "z",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 57,
+                                 "start": 3580,
+                                 "score": 97.5,
+                                 "end": 3839.99999,
+                                 "text": "as"
+                              },
+                              {
+                                 "beginindex": 60,
+                                 "phns": [
+                                    {
+                                       "char": "l",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ow",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 99.5
+                                    },
+                                    {
+                                       "char": "z",
+                                       "score": 99.5
+                                    }
+                                 ],
+                                 "endindex": 65,
+                                 "start": 3840,
+                                 "score": 100,
+                                 "end": 4399.99998,
+                                 "text": "loners"
+                              }
+                           ],
+                           "text": "those who spend all of their time alone may get labeled as loners,",
+                           "endindex": 65,
+                           "end": 4399.99998,
+                           "beginindex": 0,
+                           "start": 780,
+                           "score": 97
+                        },
+                        {
+                           "words": [
+                              {
+                                 "beginindex": 69,
+                                 "phns": [
+                                    {
+                                       "char": "ae",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 9
+                                    }
+                                 ],
+                                 "endindex": 71,
+                                 "start": 4460,
+                                 "score": 88,
+                                 "end": 4639.999996,
+                                 "text": "and"
+                              },
+                              {
+                                 "beginindex": 73,
+                                 "phns": [
+                                    {
+                                       "char": "dh",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ey",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 76,
+                                 "start": 4640,
+                                 "score": 100,
+                                 "end": 4799.999993,
+                                 "text": "they"
+                              },
+                              {
+                                 "beginindex": 78,
+                                 "phns": [
+                                    {
+                                       "char": "m",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ey",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 80,
+                                 "start": 4800,
+                                 "score": 100,
+                                 "end": 4999.999996,
+                                 "text": "may"
+                              },
+                              {
+                                 "beginindex": 82,
+                                 "phns": [
+                                    {
+                                       "char": "l",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "uw",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "z",
+                                       "score": 97.5
+                                    }
+                                 ],
+                                 "endindex": 85,
+                                 "start": 5000,
+                                 "score": 99.5,
+                                 "end": 5359.999992,
+                                 "text": "lose"
+                              },
+                              {
+                                 "beginindex": 87,
+                                 "phns": [
+                                    {
+                                       "char": "m",
+                                       "score": 99.5
+                                    },
+                                    {
+                                       "char": "eh",
+                                       "score": 99.5
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 90,
+                                 "start": 5360,
+                                 "score": 100,
+                                 "end": 5639.999994,
+                                 "text": "many"
+                              },
+                              {
+                                 "beginindex": 92,
+                                 "phns": [
+                                    {
+                                       "char": "ax",
+                                       "score": 97.5
+                                    },
+                                    {
+                                       "char": "f",
+                                       "score": 80.5
+                                    }
+                                 ],
+                                 "endindex": 93,
+                                 "start": 5640,
+                                 "score": 92,
+                                 "end": 5779.999997,
+                                 "text": "of"
+                              },
+                              {
+                                 "beginindex": 95,
+                                 "phns": [
+                                    {
+                                       "char": "dh",
+                                       "score": 2
+                                    },
+                                    {
+                                       "char": "ea",
+                                       "score": 0.5
+                                    }
+                                 ],
+                                 "endindex": 99,
+                                 "start": 5780,
+                                 "score": 1,
+                                 "end": 5899.999997,
+                                 "text": "their"
+                              },
+                              {
+                                 "beginindex": 101,
+                                 "phns": [
+                                    {
+                                       "char": "s",
+                                       "score": 58.5
+                                    },
+                                    {
+                                       "char": "ow",
+                                       "score": 96.5
+                                    },
+                                    {
+                                       "char": "sh",
+                                       "score": 58
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 67.5
+                                    }
+                                 ],
+                                 "endindex": 106,
+                                 "start": 5900,
+                                 "score": 70,
+                                 "end": 6259.999992,
+                                 "text": "social"
+                              },
+                              {
+                                 "beginindex": 108,
+                                 "phns": [
+                                    {
+                                       "char": "s",
+                                       "score": 47
+                                    },
+                                    {
+                                       "char": "g",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ih",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 99.5
+                                    },
+                                    {
+                                       "char": "z",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 113,
+                                 "start": 6260,
+                                 "score": 98.5,
+                                 "end": 6719.999982,
+                                 "text": "skills"
+                              }
+                           ],
+                           "text": "and they may lose many of their social skills.",
+                           "endindex": 113,
+                           "end": 6719.999982,
+                           "beginindex": 69,
+                           "start": 4460,
+                           "score": 94.5
+                        },
+                        {
+                           "words": [
+                              {
+                                 "beginindex": 116,
+                                 "phns": [
+                                    {
+                                       "char": "ih",
+                                       "score": 0.5
+                                    },
+                                    {
+                                       "char": "k",
+                                       "score": 83
+                                    },
+                                    {
+                                       "char": "s",
+                                       "score": 63.5
+                                    },
+                                    {
+                                       "char": "t",
+                                       "score": 99.5
+                                    },
+                                    {
+                                       "char": "r",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "m",
+                                       "score": 94
+                                    }
+                                 ],
+                                 "endindex": 122,
+                                 "start": 6920,
+                                 "score": 86.5,
+                                 "end": 7419.999989,
+                                 "text": "extreme"
+                              },
+                              {
+                                 "beginindex": 124,
+                                 "phns": [
+                                    {
+                                       "char": "s",
+                                       "score": 95
+                                    },
+                                    {
+                                       "char": "ow",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "sh",
+                                       "score": 97.5
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 2.5
+                                    }
+                                 ],
+                                 "endindex": 129,
+                                 "start": 7420,
+                                 "score": 89.5,
+                                 "end": 7739.999989,
+                                 "text": "social"
+                              },
+                              {
+                                 "beginindex": 131,
+                                 "phns": [
+                                    {
+                                       "char": "ay",
+                                       "score": 83.5
+                                    },
+                                    {
+                                       "char": "s",
+                                       "score": 91
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 89.5
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 74
+                                    },
+                                    {
+                                       "char": "ey",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "sh",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 88
+                                    }
+                                 ],
+                                 "endindex": 139,
+                                 "start": 7740,
+                                 "score": 95,
+                                 "end": 8319.999983,
+                                 "text": "isolation"
+                              },
+                              {
+                                 "beginindex": 141,
+                                 "phns": [
+                                    {
+                                       "char": "m",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ey",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 143,
+                                 "start": 8320,
+                                 "score": 100,
+                                 "end": 8499.999996,
+                                 "text": "may"
+                              },
+                              {
+                                 "beginindex": 145,
+                                 "phns": [
+                                    {
+                                       "char": "iy",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "v",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 148,
+                                 "start": 8500,
+                                 "score": 100,
+                                 "end": 8859.999985,
+                                 "text": "even"
+                              },
+                              {
+                                 "beginindex": 150,
+                                 "phns": [
+                                    {
+                                       "char": "r",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ih",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "z",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ah",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "t",
+                                       "score": 0
+                                    }
+                                 ],
+                                 "endindex": 155,
+                                 "start": 8860,
+                                 "score": 95.5,
+                                 "end": 9279.999991,
+                                 "text": "result"
+                              },
+                              {
+                                 "beginindex": 157,
+                                 "phns": [
+                                    {
+                                       "char": "ih",
+                                       "score": 38
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 158,
+                                 "start": 9280,
+                                 "score": 82.5,
+                                 "end": 9399.999997,
+                                 "text": "in"
+                              },
+                              {
+                                 "beginindex": 160,
+                                 "phns": [
+                                    {
+                                       "char": "ax",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 160,
+                                 "start": 9400,
+                                 "score": 100,
+                                 "end": 9479.999998,
+                                 "text": "a"
+                              },
+                              {
+                                 "beginindex": 162,
+                                 "phns": [
+                                    {
+                                       "char": "s",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "p",
+                                       "score": 51.5
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 0
+                                    },
+                                    {
+                                       "char": "ih",
+                                       "score": 1
+                                    },
+                                    {
+                                       "char": "t",
+                                       "score": 14.5
+                                    }
+                                 ],
+                                 "endindex": 166,
+                                 "start": 9480,
+                                 "score": 28.5,
+                                 "end": 9819.999989,
+                                 "text": "split"
+                              },
+                              {
+                                 "beginindex": 168,
+                                 "phns": [
+                                    {
+                                       "char": "w",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ih",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "th",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 171,
+                                 "start": 9820,
+                                 "score": 100,
+                                 "end": 10219.999976,
+                                 "text": "with"
+                              },
+                              {
+                                 "beginindex": 173,
+                                 "phns": [
+                                    {
+                                       "char": "r",
+                                       "score": 92
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 78
+                                    },
+                                    {
+                                       "char": "ae",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "t",
+                                       "score": 65.5
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 69
+                                    }
+                                 ],
+                                 "endindex": 179,
+                                 "start": 10220,
+                                 "score": 86.5,
+                                 "end": 10959.99998,
+                                 "text": "reality"
+                              }
+                           ],
+                           "text": "extreme social isolation may even result in a split with reality.",
+                           "endindex": 179,
+                           "end": 10959.99998,
+                           "beginindex": 116,
+                           "start": 6920,
+                           "score": 92.5
+                        },
+                        {
+                           "words": [
+                              {
+                                 "beginindex": 182,
+                                 "phns": [
+                                    {
+                                       "char": "dh",
+                                       "score": 83.5
+                                    },
+                                    {
+                                       "char": "ow",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "z",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 186,
+                                 "start": 11240,
+                                 "score": 97.5,
+                                 "end": 11479.999991,
+                                 "text": "those"
+                              },
+                              {
+                                 "beginindex": 188,
+                                 "phns": [
+                                    {
+                                       "char": "hh",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "uh",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 190,
+                                 "start": 11480,
+                                 "score": 100,
+                                 "end": 11639.999996,
+                                 "text": "who"
+                              },
+                              {
+                                 "beginindex": 192,
+                                 "phns": [
+                                    {
+                                       "char": "ih",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "g",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ao",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 197,
+                                 "start": 11640,
+                                 "score": 100,
+                                 "end": 12099.999986,
+                                 "text": "ignore"
+                              },
+                              {
+                                 "beginindex": 199,
+                                 "phns": [
+                                    {
+                                       "char": "dh",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 201,
+                                 "start": 12100,
+                                 "score": 100,
+                                 "end": 12239.999997,
+                                 "text": "the"
+                              },
+                              {
+                                 "beginindex": 203,
+                                 "phns": [
+                                    {
+                                       "char": "n",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 96
+                                    },
+                                    {
+                                       "char": "d",
+                                       "score": 0.5
+                                    }
+                                 ],
+                                 "endindex": 206,
+                                 "start": 12240,
+                                 "score": 83,
+                                 "end": 12499.999994,
+                                 "text": "need"
+                              },
+                              {
+                                 "beginindex": 208,
+                                 "phns": [
+                                    {
+                                       "char": "f",
+                                       "score": 92.5
+                                    },
+                                    {
+                                       "char": "ao",
+                                       "score": 97
+                                    }
+                                 ],
+                                 "endindex": 210,
+                                 "start": 12500,
+                                 "score": 95.5,
+                                 "end": 12639.999997,
+                                 "text": "for"
+                              },
+                              {
+                                 "beginindex": 212,
+                                 "phns": [
+                                    {
+                                       "char": "s",
+                                       "score": 99
+                                    },
+                                    {
+                                       "char": "ah",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "m",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 215,
+                                 "start": 12640,
+                                 "score": 100,
+                                 "end": 12879.999991,
+                                 "text": "some"
+                              },
+                              {
+                                 "beginindex": 217,
+                                 "phns": [
+                                    {
+                                       "char": "l",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ow",
+                                       "score": 98
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 5
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 66
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 85.5
+                                    }
+                                 ],
+                                 "endindex": 222,
+                                 "start": 12880,
+                                 "score": 84.5,
+                                 "end": 13239.999988,
+                                 "text": "lonely"
+                              },
+                              {
+                                 "beginindex": 224,
+                                 "phns": [
+                                    {
+                                       "char": "t",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ay",
+                                       "score": 95
+                                    },
+                                    {
+                                       "char": "m",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "z",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 228,
+                                 "start": 13240,
+                                 "score": 99,
+                                 "end": 13739.999981,
+                                 "text": "times"
+                              },
+                              {
+                                 "beginindex": 230,
+                                 "phns": [
+                                    {
+                                       "char": "ao",
+                                       "score": 64.5
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "s",
+                                       "score": 93.5
+                                    },
+                                    {
+                                       "char": "ow",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 233,
+                                 "start": 13740,
+                                 "score": 95.5,
+                                 "end": 14039.999993,
+                                 "text": "also"
+                              },
+                              {
+                                 "beginindex": 235,
+                                 "phns": [
+                                    {
+                                       "char": "r",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ih",
+                                       "score": 22.5
+                                    },
+                                    {
+                                       "char": "s",
+                                       "score": 0
+                                    },
+                                    {
+                                       "char": "k",
+                                       "score": 0
+                                    }
+                                 ],
+                                 "endindex": 238,
+                                 "start": 14040,
+                                 "score": 8.5,
+                                 "end": 14279.999995,
+                                 "text": "risk"
+                              },
+                              {
+                                 "beginindex": 240,
+                                 "phns": [
+                                    {
+                                       "char": "s",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ah",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ch",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 243,
+                                 "start": 14280,
+                                 "score": 100,
+                                 "end": 14599.999993,
+                                 "text": "such"
+                              },
+                              {
+                                 "beginindex": 245,
+                                 "phns": [
+                                    {
+                                       "char": "ah",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 245,
+                                 "start": 14600,
+                                 "score": 100,
+                                 "end": 14659.999999,
+                                 "text": "a"
+                              },
+                              {
+                                 "beginindex": 247,
+                                 "phns": [
+                                    {
+                                       "char": "s",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "p",
+                                       "score": 56
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 68
+                                    },
+                                    {
+                                       "char": "ih",
+                                       "score": 97
+                                    },
+                                    {
+                                       "char": "t",
+                                       "score": 82.5
+                                    }
+                                 ],
+                                 "endindex": 251,
+                                 "start": 14660,
+                                 "score": 87.5,
+                                 "end": 15139.999989,
+                                 "text": "split"
+                              }
+                           ],
+                           "text": "those who ignore the need for some lonely times also risk such a split.",
+                           "endindex": 251,
+                           "end": 15139.999989,
+                           "beginindex": 182,
+                           "start": 11240,
+                           "score": 95.5
+                        },
+                        {
+                           "words": [
+                              {
+                                 "beginindex": 254,
+                                 "phns": [
+                                    {
+                                       "char": "b",
+                                       "score": 59.5
+                                    },
+                                    {
+                                       "char": "ae",
+                                       "score": 0
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 91.5
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 2.5
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 81
+                                    },
+                                    {
+                                       "char": "s",
+                                       "score": 4.5
+                                    },
+                                    {
+                                       "char": "ih",
+                                       "score": 0
+                                    },
+                                    {
+                                       "char": "ng",
+                                       "score": 40.5
+                                    }
+                                 ],
+                                 "endindex": 262,
+                                 "start": 15440,
+                                 "score": 5.5,
+                                 "end": 15919.999989,
+                                 "text": "balancing"
+                              },
+                              {
+                                 "beginindex": 264,
+                                 "phns": [
+                                    {
+                                       "char": "dh",
+                                       "score": 61.5
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "z",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 268,
+                                 "start": 15920,
+                                 "score": 98.5,
+                                 "end": 16299.999992,
+                                 "text": "these"
+                              },
+                              {
+                                 "beginindex": 270,
+                                 "phns": [
+                                    {
+                                       "char": "t",
+                                       "score": 98.5
+                                    },
+                                    {
+                                       "char": "uw",
+                                       "score": 89.5
+                                    }
+                                 ],
+                                 "endindex": 272,
+                                 "start": 16300,
+                                 "score": 95.5,
+                                 "end": 16819.999981,
+                                 "text": "two"
+                              },
+                              {
+                                 "beginindex": 274,
+                                 "phns": [
+                                    {
+                                       "char": "n",
+                                       "score": 4.5
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 99.5
+                                    },
+                                    {
+                                       "char": "d",
+                                       "score": 99.5
+                                    },
+                                    {
+                                       "char": "z",
+                                       "score": 98.5
+                                    }
+                                 ],
+                                 "endindex": 278,
+                                 "start": 16820,
+                                 "score": 82.5,
+                                 "end": 17239.999994,
+                                 "text": "needs"
+                              },
+                              {
+                                 "beginindex": 280,
+                                 "phns": [
+                                    {
+                                       "char": "s",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "m",
+                                       "score": 94
+                                    },
+                                    {
+                                       "char": "z",
+                                       "score": 0
+                                    }
+                                 ],
+                                 "endindex": 284,
+                                 "start": 17240,
+                                 "score": 83.5,
+                                 "end": 17619.999992,
+                                 "text": "seems"
+                              },
+                              {
+                                 "beginindex": 286,
+                                 "phns": [
+                                    {
+                                       "char": "t",
+                                       "score": 62
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 287,
+                                 "start": 17620,
+                                 "score": 83.5,
+                                 "end": 17819.999996,
+                                 "text": "to"
+                              },
+                              {
+                                 "beginindex": 289,
+                                 "phns": [
+                                    {
+                                       "char": "b",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 290,
+                                 "start": 17820,
+                                 "score": 100,
+                                 "end": 17939.999997,
+                                 "text": "be"
+                              },
+                              {
+                                 "beginindex": 292,
+                                 "phns": [
+                                    {
+                                       "char": "dh",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 43.5
+                                    }
+                                 ],
+                                 "endindex": 294,
+                                 "start": 17940,
+                                 "score": 79,
+                                 "end": 18079.999997,
+                                 "text": "the"
+                              },
+                              {
+                                 "beginindex": 296,
+                                 "phns": [
+                                    {
+                                       "char": "k",
+                                       "score": 95
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 87
+                                    }
+                                 ],
+                                 "endindex": 298,
+                                 "start": 18080,
+                                 "score": 90.5,
+                                 "end": 18500.000002,
+                                 "text": "key"
+                              },
+                              {
+                                 "beginindex": 300,
+                                 "phns": [
+                                    {
+                                       "char": "ao",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "dh",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ow",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 307,
+                                 "start": 18500,
+                                 "score": 100,
+                                 "end": 19039.999977,
+                                 "text": "although"
+                              },
+                              {
+                                 "beginindex": 309,
+                                 "phns": [
+                                    {
+                                       "char": "w",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 310,
+                                 "start": 19040,
+                                 "score": 100,
+                                 "end": 19219.999996,
+                                 "text": "we"
+                              },
+                              {
+                                 "beginindex": 312,
+                                 "phns": [
+                                    {
+                                       "char": "ao",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 98
+                                    }
+                                 ],
+                                 "endindex": 314,
+                                 "start": 19220,
+                                 "score": 99,
+                                 "end": 19459.999995,
+                                 "text": "all"
+                              },
+                              {
+                                 "beginindex": 316,
+                                 "phns": [
+                                    {
+                                       "char": "b",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ae",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "s",
+                                       "score": 5.5
+                                    }
+                                 ],
+                                 "endindex": 322,
+                                 "start": 19460,
+                                 "score": 98,
+                                 "end": 19919.999982,
+                                 "text": "balance"
+                              },
+                              {
+                                 "beginindex": 324,
+                                 "phns": [
+                                    {
+                                       "char": "dh",
+                                       "score": 0
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "z",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 328,
+                                 "start": 19920,
+                                 "score": 79.5,
+                                 "end": 20139.999995,
+                                 "text": "these"
+                              },
+                              {
+                                 "beginindex": 330,
+                                 "phns": [
+                                    {
+                                       "char": "d",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ih",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "f",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "r",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "t",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 340,
+                                 "start": 20140,
+                                 "score": 100,
+                                 "end": 20899.999987,
+                                 "text": "differently"
+                              }
+                           ],
+                           "text": "balancing these two needs seems to be the key although we all balance these differently.",
+                           "endindex": 340,
+                           "end": 20899.999987,
+                           "beginindex": 254,
+                           "start": 15440,
+                           "score": 93
+                        },
+                        {
+                           "words": [
+                              {
+                                 "beginindex": 343,
+                                 "phns": [
+                                    {
+                                       "char": "ah",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "dh",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 347,
+                                 "start": 21160,
+                                 "score": 100,
+                                 "end": 21399.999991,
+                                 "text": "other"
+                              },
+                              {
+                                 "beginindex": 349,
+                                 "phns": [
+                                    {
+                                       "char": "ae",
+                                       "score": 98
+                                    },
+                                    {
+                                       "char": "r",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 88.5
+                                    },
+                                    {
+                                       "char": "z",
+                                       "score": 51.5
+                                    }
+                                 ],
+                                 "endindex": 353,
+                                 "start": 21400,
+                                 "score": 96.5,
+                                 "end": 21859.999982,
+                                 "text": "areas"
+                              },
+                              {
+                                 "beginindex": 355,
+                                 "phns": [
+                                    {
+                                       "char": "w",
+                                       "score": 97.5
+                                    },
+                                    {
+                                       "char": "ea",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 359,
+                                 "start": 21860,
+                                 "score": 99,
+                                 "end": 22059.999988,
+                                 "text": "where"
+                              },
+                              {
+                                 "beginindex": 361,
+                                 "phns": [
+                                    {
+                                       "char": "b",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ae",
+                                       "score": 98
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 99.5
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 99.5
+                                    },
+                                    {
+                                       "char": "s",
+                                       "score": 9
+                                    }
+                                 ],
+                                 "endindex": 367,
+                                 "start": 22060,
+                                 "score": 97,
+                                 "end": 22479.999991,
+                                 "text": "balance"
+                              },
+                              {
+                                 "beginindex": 369,
+                                 "phns": [
+                                    {
+                                       "char": "s",
+                                       "score": 99.5
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "m",
+                                       "score": 96.5
+                                    },
+                                    {
+                                       "char": "z",
+                                       "score": 95.5
+                                    }
+                                 ],
+                                 "endindex": 373,
+                                 "start": 22480,
+                                 "score": 98.5,
+                                 "end": 22859.999988,
+                                 "text": "seems"
+                              },
+                              {
+                                 "beginindex": 375,
+                                 "phns": [
+                                    {
+                                       "char": "t",
+                                       "score": 73
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 80
+                                    }
+                                 ],
+                                 "endindex": 376,
+                                 "start": 22860,
+                                 "score": 76,
+                                 "end": 22999.999997,
+                                 "text": "to"
+                              },
+                              {
+                                 "beginindex": 378,
+                                 "phns": [
+                                    {
+                                       "char": "b",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 379,
+                                 "start": 23000,
+                                 "score": 100,
+                                 "end": 23159.999993,
+                                 "text": "be"
+                              },
+                              {
+                                 "beginindex": 381,
+                                 "phns": [
+                                    {
+                                       "char": "ih",
+                                       "score": 97.5
+                                    },
+                                    {
+                                       "char": "m",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "p",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ao",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "t",
+                                       "score": 60
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 4
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "t",
+                                       "score": 98
+                                    }
+                                 ],
+                                 "endindex": 389,
+                                 "start": 23160,
+                                 "score": 95,
+                                 "end": 23819.999989,
+                                 "text": "important"
+                              },
+                              {
+                                 "beginindex": 391,
+                                 "phns": [
+                                    {
+                                       "char": "ih",
+                                       "score": 95.5
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "k",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "uw",
+                                       "score": 79.5
+                                    },
+                                    {
+                                       "char": "d",
+                                       "score": 0
+                                    }
+                                 ],
+                                 "endindex": 397,
+                                 "start": 23820,
+                                 "score": 90.5,
+                                 "end": 24339.999985,
+                                 "text": "include"
+                              },
+                              {
+                                 "beginindex": 399,
+                                 "phns": [
+                                    {
+                                       "char": "dh",
+                                       "score": 37
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 88.5
+                                    }
+                                 ],
+                                 "endindex": 401,
+                                 "start": 24340,
+                                 "score": 69,
+                                 "end": 24459.999997,
+                                 "text": "the"
+                              },
+                              {
+                                 "beginindex": 403,
+                                 "phns": [
+                                    {
+                                       "char": "b",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ae",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "s",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 409,
+                                 "start": 24460,
+                                 "score": 100,
+                                 "end": 24859.999991,
+                                 "text": "balance"
+                              },
+                              {
+                                 "beginindex": 411,
+                                 "phns": [
+                                    {
+                                       "char": "b",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ih",
+                                       "score": 75.5
+                                    },
+                                    {
+                                       "char": "t",
+                                       "score": 24
+                                    },
+                                    {
+                                       "char": "w",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 58.5
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 0
+                                    }
+                                 ],
+                                 "endindex": 417,
+                                 "start": 24860,
+                                 "score": 60.5,
+                                 "end": 25219.999992,
+                                 "text": "between"
+                              },
+                              {
+                                 "beginindex": 419,
+                                 "phns": [
+                                    {
+                                       "char": "w",
+                                       "score": 10.5
+                                    },
+                                    {
+                                       "char": "axr",
+                                       "score": 39.5
+                                    },
+                                    {
+                                       "char": "k",
+                                       "score": 10.5
+                                    }
+                                 ],
+                                 "endindex": 422,
+                                 "start": 25220,
+                                 "score": 16.5,
+                                 "end": 25399.999996,
+                                 "text": "work"
+                              },
+                              {
+                                 "beginindex": 424,
+                                 "phns": [
+                                    {
+                                       "char": "ae",
+                                       "score": 0.5
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 93
+                                    }
+                                 ],
+                                 "endindex": 426,
+                                 "start": 25400,
+                                 "score": 32.5,
+                                 "end": 25519.999997,
+                                 "text": "and"
+                              },
+                              {
+                                 "beginindex": 428,
+                                 "phns": [
+                                    {
+                                       "char": "p",
+                                       "score": 85.5
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 77
+                                    },
+                                    {
+                                       "char": "ey",
+                                       "score": 78.5
+                                    }
+                                 ],
+                                 "endindex": 431,
+                                 "start": 25520,
+                                 "score": 79.5,
+                                 "end": 25979.999979,
+                                 "text": "play"
+                              }
+                           ],
+                           "text": "other areas where balance seems to be important include the balance between work and play,",
+                           "endindex": 431,
+                           "end": 25979.999979,
+                           "beginindex": 343,
+                           "start": 21160,
+                           "score": 91.5
+                        },
+                        {
+                           "words": [
+                              {
+                                 "beginindex": 434,
+                                 "phns": [
+                                    {
+                                       "char": "dh",
+                                       "score": 48
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 18
+                                    }
+                                 ],
+                                 "endindex": 436,
+                                 "start": 26120,
+                                 "score": 30,
+                                 "end": 26239.999997,
+                                 "text": "the"
+                              },
+                              {
+                                 "beginindex": 438,
+                                 "phns": [
+                                    {
+                                       "char": "b",
+                                       "score": 82.5
+                                    },
+                                    {
+                                       "char": "ae",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "s",
+                                       "score": 33
+                                    }
+                                 ],
+                                 "endindex": 444,
+                                 "start": 26240,
+                                 "score": 96,
+                                 "end": 26599.999992,
+                                 "text": "balance"
+                              },
+                              {
+                                 "beginindex": 446,
+                                 "phns": [
+                                    {
+                                       "char": "b",
+                                       "score": 0.5
+                                    },
+                                    {
+                                       "char": "ih",
+                                       "score": 94.5
+                                    },
+                                    {
+                                       "char": "t",
+                                       "score": 75
+                                    },
+                                    {
+                                       "char": "w",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 80.5
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 452,
+                                 "start": 26600,
+                                 "score": 81.5,
+                                 "end": 26979.999992,
+                                 "text": "between"
+                              },
+                              {
+                                 "beginindex": 454,
+                                 "phns": [
+                                    {
+                                       "char": "s",
+                                       "score": 99
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 68.5
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 81.5
+                                    },
+                                    {
+                                       "char": "p",
+                                       "score": 68
+                                    }
+                                 ],
+                                 "endindex": 458,
+                                 "start": 26980,
+                                 "score": 84,
+                                 "end": 27319.999989,
+                                 "text": "sleep"
+                              },
+                              {
+                                 "beginindex": 460,
+                                 "phns": [
+                                    {
+                                       "char": "ae",
+                                       "score": 87
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 0.5
+                                    },
+                                    {
+                                       "char": "d",
+                                       "score": 61.5
+                                    }
+                                 ],
+                                 "endindex": 462,
+                                 "start": 27320,
+                                 "score": 59,
+                                 "end": 27639.999989,
+                                 "text": "and"
+                              },
+                              {
+                                 "beginindex": 464,
+                                 "phns": [
+                                    {
+                                       "char": "w",
+                                       "score": 79.5
+                                    },
+                                    {
+                                       "char": "ey",
+                                       "score": 87.5
+                                    },
+                                    {
+                                       "char": "k",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "f",
+                                       "score": 87.5
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 87
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 73
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 98
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 65.5
+                                    },
+                                    {
+                                       "char": "s",
+                                       "score": 24.5
+                                    }
+                                 ],
+                                 "endindex": 474,
+                                 "start": 27640,
+                                 "score": 78,
+                                 "end": 28399.99999,
+                                 "text": "wakefulness"
+                              }
+                           ],
+                           "text": "the balance between sleep and wakefulness,",
+                           "endindex": 474,
+                           "end": 28399.99999,
+                           "beginindex": 434,
+                           "start": 26120,
+                           "score": 79
+                        },
+                        {
+                           "words": [
+                              {
+                                 "beginindex": 478,
+                                 "phns": [
+                                    {
+                                       "char": "ax",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 480,
+                                 "start": 28500,
+                                 "score": 100,
+                                 "end": 28679.999992,
+                                 "text": "and"
+                              },
+                              {
+                                 "beginindex": 482,
+                                 "phns": [
+                                    {
+                                       "char": "iy",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "v",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 0
+                                    }
+                                 ],
+                                 "endindex": 485,
+                                 "start": 28680,
+                                 "score": 70.5,
+                                 "end": 28879.999996,
+                                 "text": "even"
+                              },
+                              {
+                                 "beginindex": 487,
+                                 "phns": [
+                                    {
+                                       "char": "dh",
+                                       "score": 50
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 489,
+                                 "start": 28880,
+                                 "score": 84,
+                                 "end": 28999.999997,
+                                 "text": "the"
+                              },
+                              {
+                                 "beginindex": 491,
+                                 "phns": [
+                                    {
+                                       "char": "b",
+                                       "score": 87.5
+                                    },
+                                    {
+                                       "char": "ae",
+                                       "score": 96
+                                    },
+                                    {
+                                       "char": "l",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ax",
+                                       "score": 96.5
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "s",
+                                       "score": 100
+                                    }
+                                 ],
+                                 "endindex": 497,
+                                 "start": 29000,
+                                 "score": 98.5,
+                                 "end": 29399.999991,
+                                 "text": "balance"
+                              },
+                              {
+                                 "beginindex": 499,
+                                 "phns": [
+                                    {
+                                       "char": "b",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "ih",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "t",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "w",
+                                       "score": 100
+                                    },
+                                    {
+                                       "char": "iy",
+                                       "score": 97
+                                    },
+                                    {
+                                       "char": "n",
+                                       "score": 92
+                                    }
+                                 ],
+                                 "endindex": 505,
+                                 "start": 29400,
+                                 "score": 99,
+                                 "end": 29779.999992,
+                                 "text": "between"
+                              },
+                              {
+                                 "beginindex": 507,
+                                 "endindex": 510,
+                                 "start": 0,
+                                 "text": "time",
+                                 "end": 0,
+                                 "score": 0
+                              },
+                              {
+                                 "beginindex": 512,
+                                 "endindex": 516,
+                                 "start": 0,
+                                 "text": "spent",
+                                 "end": 0,
+                                 "score": 0
+                              },
+                              {
+                                 "beginindex": 518,
+                                 "endindex": 524,
+                                 "start": 0,
+                                 "text": "indoors",
+                                 "end": 0,
+                                 "score": 0
+                              },
+                              {
+                                 "beginindex": 526,
+                                 "endindex": 528,
+                                 "start": 0,
+                                 "text": "and",
+                                 "end": 0,
+                                 "score": 0
+                              },
+                              {
+                                 "beginindex": 530,
+                                 "endindex": 533,
+                                 "start": 0,
+                                 "text": "time",
+                                 "end": 0,
+                                 "score": 0
+                              },
+                              {
+                                 "beginindex": 535,
+                                 "endindex": 539,
+                                 "start": 0,
+                                 "text": "spent",
+                                 "end": 0,
+                                 "score": 0
+                              },
+                              {
+                                 "beginindex": 541,
+                                 "endindex": 548,
+                                 "start": 0,
+                                 "text": "outdoors",
+                                 "end": 0,
+                                 "score": 0
+                              }
+                           ],
+                           "text": "and even the balance between time spent indoors and time spent outdoors.",
+                           "endindex": 548,
+                           "end": 29779.999992,
+                           "beginindex": 478,
+                           "start": 28500,
+                           "score": 40.5
+                        }
+                     ],
+                     "info": {
+                        "volume": 2779,
+                        "clip": 0,
+                        "snr": 33.461121,
+                        "tipId": 0
+                     },
+                     "realtime": 14468
+                  }
+               }
+            ],
+            "score": 1
+         },
+         {
+            "topicId": "2183",
+            "topicTypeId": "61",
+            "paperTopicScore": "2.0",
+            "standardAudio": "",
+            "standardAnswer": "",
+            "myAnswer": "",
+            "isAudio": true,
+            "audioAnswerList": [
+               {
+                  "coreType": "en.scne.exam",
+                  "score": 98.5,
+                  "audioUrl": "download.cloud.chivox.com: 8002\\/5c2b365ea8538be46a0b45f4",
+                  "standardAudio": "https: \\/\\/oralres.shmeea.edu.cn: 8001\\/\\/1543980731271517.mp3",
+                  "recordId": "5c2b365ea8538be46a0b45f4",
+                  "attributes": {
+                     "wavetime": 20100,
+                     "info": {
+                        "tipId": 0,
+                        "clip": 0,
+                        "snr": 39.900002,
+                        "volume": 3041
+                     },
+                     "rank": 100,
+                     "res": "eng.scne.aux.shanghai.V5.8",
+                     "overall": 98.5,
+                     "systime": 2814,
+                     "pretime": 183,
+                     "precision": 0.5,
+                     "version": "1.1.2-2017.11.27.08: 48: 10",
+                     "delaytime": 265,
+                     "realtime": 2713
+                  }
+               },
+               {
+                  "coreType": "en.scne.exam",
+                  "score": 100,
+                  "audioUrl": "download.cloud.chivox.com: 8002\\/5c2b3681a8538be46a0b4675",
+                  "standardAudio": "https: \\/\\/oralres.shmeea.edu.cn: 8001\\/\\/1543980731594011.mp3",
+                  "recordId": "5c2b3681a8538be46a0b4675",
+                  "attributes": {
+                     "wavetime": 19760,
+                     "info": {
+                        "tipId": 0,
+                        "clip": 0,
+                        "snr": 39.900002,
+                        "volume": 3249
+                     },
+                     "rank": 100,
+                     "res": "eng.scne.aux.shanghai.V5.8",
+                     "overall": 100,
+                     "systime": 2561,
+                     "pretime": 208,
+                     "precision": 0.5,
+                     "version": "1.1.2-2017.11.27.08: 48: 10",
+                     "delaytime": 1166,
+                     "realtime": 2467
+                  }
+               }
+            ],
+            "score": 1.99
+         },
+         {
+            "topicId": "2187",
+            "topicTypeId": "62",
+            "paperTopicScore": "1.5",
+            "standardAudio": "https: \\/\\/17ks.chivoxapp.com\\/\\/1543995460567807.mp3",
+            "standardAnswer": None,
+            "myAnswer": "",
+            "isAudio": true,
+            "audioAnswerList": [
+               {
+                  "coreType": "en.prtl.exam",
+                  "score": 71,
+                  "audioUrl": "download.cloud.chivox.com: 8002\\/5c2b36fafa09c5ec010b7a26",
+                  "standardAudio": "https: \\/\\/oralres.shmeea.edu.cn: 8001\\/\\/1543995460567807.mp3",
+                  "recordId": "5c2b36fafa09c5ec010b7a26",
+                  "attributes": {
+                     "wavetime": 60040,
+                     "version": "1.1.2-2017.11.27.08: 48: 10",
+                     "rank": 100,
+                     "res": "eng.prtl.aux.shanghai.V6.11",
+                     "realtime": 29360,
+                     "overall": 71,
+                     "pretime": 566,
+                     "delaytime": 467,
+                     "info": {
+                        "tipId": 0,
+                        "clip": 0,
+                        "snr": 15.576422,
+                        "volume": 2511
+                     },
+                     "details": {
+                        "fluency": {
+                           "max_bt_wrds": 30,
+                           "num_pause": 5,
+                           "score": 2.915796,
+                           "num_repeat": 2,
+                           "speed": 117
+                        },
+                        "semcmp": 2.30371,
+                        "multi_dim": {
+                           "flu": 3
+                        },
+                        "semsim": 0.713024,
+                        "lexicon": {
+                           "ttr": 0.576577,
+                           "oov": 0.171875,
+                           "lamda": 0.79,
+                           "fea": [
+                              0.45283,
+                              0.377358,
+                              0.132075,
+                              0.037736,
+                              0,
+                              0
+                           ],
+                           "score": 2.27143
+                        }
+                     },
+                     "systime": 29647,
+                     "precision": 0.5
+                  }
+               }
+            ],
+            "score": 1.07
+         },
+         {
+            "topicId": "2194",
+            "topicTypeId": "63",
+            "paperTopicScore": "2.0",
+            "standardAudio": "",
+            "standardAnswer": "",
+            "myAnswer": "",
+            "isAudio": true,
+            "audioAnswerList": [
+               {
+                  "coreType": "en.scne.exam",
+                  "score": 100,
+                  "audioUrl": "download.cloud.chivox.com: 8002\\/5c2b375b2c0e32dcff0bf9ed",
+                  "standardAudio": "",
+                  "recordId": "5c2b375b2c0e32dcff0bf9ed",
+                  "attributes": {
+                     "wavetime": 4740,
+                     "info": {
+                        "tipId": 0,
+                        "clip": 0,
+                        "snr": 36.758076,
+                        "volume": 2493
+                     },
+                     "rank": 100,
+                     "res": "eng.scne.aux.shanghai.V5.8",
+                     "overall": 100,
+                     "systime": 557,
+                     "pretime": 148,
+                     "precision": 0.5,
+                     "version": "1.1.2-2017.11.27.08: 48: 10",
+                     "delaytime": 196,
+                     "realtime": 536
+                  }
+               },
+               {
+                  "coreType": "en.scne.exam",
+                  "score": 86.5,
+                  "audioUrl": "download.cloud.chivox.com: 8002\\/5c2b376a2c0e32dcff0bfa20",
+                  "standardAudio": "",
+                  "recordId": "5c2b376a2c0e32dcff0bfa20",
+                  "attributes": {
+                     "wavetime": 5080,
+                     "info": {
+                        "tipId": 0,
+                        "clip": 0,
+                        "snr": 39.900002,
+                        "volume": 2488
+                     },
+                     "rank": 100,
+                     "res": "eng.scne.aux.shanghai.V5.8",
+                     "overall": 86.5,
+                     "systime": 1284,
+                     "pretime": 188,
+                     "precision": 0.5,
+                     "version": "1.1.2-2017.11.27.08: 48: 10",
+                     "delaytime": 197,
+                     "realtime": 1257
+                  }
+               },
+               {
+                  "coreType": "en.scne.exam",
+                  "score": 100,
+                  "audioUrl": "download.cloud.chivox.com: 8002\\/5c2b377b2c0e32dcff0bfa4c",
+                  "standardAudio": "",
+                  "recordId": "5c2b377b2c0e32dcff0bfa4c",
+                  "attributes": {
+                     "wavetime": 5080,
+                     "info": {
+                        "tipId": 0,
+                        "clip": 0,
+                        "snr": 39.900002,
+                        "volume": 2656
+                     },
+                     "rank": 100,
+                     "res": "eng.scne.aux.shanghai.V5.8",
+                     "overall": 100,
+                     "systime": 797,
+                     "pretime": 193,
+                     "precision": 0.5,
+                     "version": "1.1.2-2017.11.27.08: 48: 10",
+                     "delaytime": 398,
+                     "realtime": 756
+                  }
+               },
+               {
+                  "coreType": "en.scne.exam",
+                  "score": 59,
+                  "audioUrl": "download.cloud.chivox.com: 8002\\/5c2b378a2c0e32dcff0bfa7a",
+                  "standardAudio": "",
+                  "recordId": "5c2b378a2c0e32dcff0bfa7a",
+                  "attributes": {
+                     "wavetime": 4740,
+                     "info": {
+                        "tipId": 0,
+                        "clip": 0,
+                        "snr": 39.900002,
+                        "volume": 2448
+                     },
+                     "rank": 100,
+                     "res": "eng.scne.aux.shanghai.V5.8",
+                     "overall": 59,
+                     "systime": 2172,
+                     "pretime": 188,
+                     "precision": 0.5,
+                     "version": "1.1.2-2017.11.27.08: 48: 10",
+                     "delaytime": 985,
+                     "realtime": 2151
+                  }
+               }
+            ],
+            "score": 1.73
+         },
+         {
+            "topicId": "2199",
+            "topicTypeId": "64",
+            "paperTopicScore": "2.5",
+            "standardAudio": "https: \\/\\/17ks.chivoxapp.com\\/\\/1544067249149717.mp3",
+            "standardAnswer": "",
+            "myAnswer": "",
+            "isAudio": true,
+            "audioAnswerList": [
+               {
+                  "coreType": "en.scne.exam",
+                  "score": 100,
+                  "audioUrl": "download.cloud.chivox.com: 8002\\/5c2b38c22dfd5ef4e50cadca",
+                  "standardAudio": "https: \\/\\/oralres.shmeea.edu.cn: 8001\\/\\/1544067249822747.mp3",
+                  "recordId": "5c2b38c22dfd5ef4e50cadca",
+                  "attributes": {
+                     "wavetime": 29660,
+                     "info": {
+                        "tipId": 0,
+                        "clip": 0,
+                        "snr": 30.868954,
+                        "volume": 2170
+                     },
+                     "rank": 100,
+                     "res": "eng.scne.aux.shanghai.V5.8",
+                     "overall": 100,
+                     "systime": 10053,
+                     "pretime": 184,
+                     "precision": 0.5,
+                     "version": "1.1.2-2017.11.27.08: 48: 10",
+                     "delaytime": 316,
+                     "realtime": 9918
+                  }
+               },
+               {
+                  "coreType": "en.prtl.exam",
+                  "score": 77.5,
+                  "audioUrl": "download.cloud.chivox.com: 8002\\/5c2b392c3ad13762670c601f",
+                  "standardAudio": "https: \\/\\/oralres.shmeea.edu.cn: 8001\\/\\/1544067249357277.mp3",
+                  "recordId": "5c2b392c3ad13762670c601f",
+                  "attributes": {
+                     "wavetime": 60040,
+                     "version": "1.1.2-2017.11.27.08: 48: 10",
+                     "rank": 100,
+                     "res": "eng.prtl.aux.shanghai.V6.11",
+                     "realtime": 26489,
+                     "overall": 77.5,
+                     "pretime": 495,
+                     "delaytime": 920,
+                     "info": {
+                        "tipId": 0,
+                        "clip": 0,
+                        "snr": 26.995649,
+                        "volume": 2656
+                     },
+                     "details": {
+                        "fluency": {
+                           "max_bt_wrds": 85,
+                           "num_pause": 2,
+                           "score": 2.890701,
+                           "num_repeat": 1,
+                           "speed": 122
+                        },
+                        "semcmp": 1.887042,
+                        "multi_dim": {
+                           "flu": 3
+                        },
+                        "semsim": 0.501728,
+                        "lexicon": {
+                           "ttr": 0.563107,
+                           "oov": 0.206897,
+                           "lamda": 0.83,
+                           "fea": [
+                              0.434783,
+                              0.26087,
+                              0.086957,
+                              0.086957,
+                              0.065217,
+                              0.065217
+                           ],
+                           "score": 2.912194
+                        }
+                     },
+                     "systime": 26768,
+                     "precision": 0.5
+                  }
+               }
+            ],
+            "score": 2.22
+         }
+      ],
+      "total_score": 9,
+      "score_list": [
+         0.83,
+         1,
+         1.99,
+         1.07,
+         1.73,
+         2.22
+      ],
+      "name": "陈彦宁",
+      "school": "杨浦区上海考试院",
+      "class": " 一班",
+      "mail": "",
+      "phone": "",
+      "insert_timestamp": "2019-01-01 17: 56: 59",
+      "paper_id": "11",
+      "stage_id": "29",
+      "topic_type_answer": [
+         {
+            "sumScore": "1.0",
+            "stuScore": 0.825,
+            "scoreRate": 0.825,
+            "topicTypeId": "59"
+         },
+         {
+            "sumScore": "1.0",
+            "stuScore": 1,
+            "scoreRate": 1,
+            "topicTypeId": "60"
+         },
+         {
+            "sumScore": "2.0",
+            "stuScore": 1.985,
+            "scoreRate": 0.993,
+            "topicTypeId": "61"
+         },
+         {
+            "sumScore": "1.5",
+            "stuScore": 1.065,
+            "scoreRate": 0.71,
+            "topicTypeId": "62"
+         },
+         {
+            "sumScore": "2.0",
+            "stuScore": 1.7275,
+            "scoreRate": 0.864,
+            "topicTypeId": "63"
+         },
+         {
+            "sumScore": "2.5",
+            "stuScore": 2.21875,
+            "scoreRate": 0.888,
+            "topicTypeId": "64"
+         }
+      ],
+      "topic_list": [
+         "2165",
+         "2170",
+         "2183",
+         "2187",
+         "2194",
+         "2199"
+      ],
+      "number_id": "19310110002321",
+      "highest_score": 9,
+      "remain_times": 2,
+      "full_score": "10.0",
+      "show_grade_type": "grade",
+      "highest_grade": "A",
+      "current_grade": "A",
+      "is_lowest_grade": false,
+      "current_ranking": 0,
+      "show_time_flag": false,
+      "show_report_status": 1,
+      "firstDoing": true
+   }
+}
